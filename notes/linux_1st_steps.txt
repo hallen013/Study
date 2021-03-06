@@ -1,0 +1,69 @@
+﻿Linux-Ubuntu first steps
+
+terminal comands:
+
+whoami == user username
+CTRL + R == search for input commands
+arrow up == last input commands
+man == manual of the command
+pwd == print working directory 
+cd == change directory
+cd .. == previous path
+mkdir == make directory
+mv == move
+rm == remove file
+rm -Rf == remove directory
+chown == change ownership
+cat = concatenate
+$HOME == return to ‘home/username’  **“cd ~” expand to home variable shortcut**
+~ = can be used as a shortcut to return $HOME
+cp == copy files
+chmod == change file permission
+chmod +x “filename” == give permission
+bash == bourne again shell
+shutdown == //
+fdisk == disk partitions
+fsck == check disk
+mkfs == format disk
+service== execute start/stop commands
+ifup and ifdown == network boards
+tcshell
+ZSH
+SHELL == current command line, there are multiple tipes, and can be executing system binaries, scripts with execution permission, bash direct commands or the current shell
+df -h == list mounted devices and mount points
+
+VIM shortcuts:
+
+J==DOWN
+K==UP
+L==RIGHT
+H==LEFT
+o==Insert new line down
+O==Insert new line up
+W==Jump through words front
+B==Jump through words back
+'{' '}'== Jump through words blocks
+'*'==jump through same words
+'#'==jump through same words
+i==insert
+I==insert on the beggining of the line
+A==insert on the end of the line
+a==insert on the next character
+v==visual
+y=CTRL+C
+yy==CTRL+C all line
+p==CTRL+V (yy+p==paste on next line)
+P==CTRL+V line up
+U=CTRL+Z
+CTRL+R=CTRL+shift+Z
+
+directories:
+
+/dev == device
+/root == HOME administrator
+/opt == third parties programs can be installed
+/sbin == OS binaries
+/bin == OS programs***
+/usr == UNIX system resources
+/etc == etcetera
+/var == variable data

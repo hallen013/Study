@@ -1,0 +1,10 @@
+git terminal commands:
+
+git init==create new repository
+git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY==connect github
+git checkout -b <new-branch-name>== create new branch
+git checkout <branch-name>== change branch
+	git status== git files status
+git add <filename>==add file to be commited (git add --all=add all unstagged files)
+git commit=commit files
+git push==upload commited files to remote repository
