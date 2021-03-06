@@ -1,4 +1,4 @@
-git terminal commands:
+:git terminal commands:
 
 git init==create new repository
 git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY==connect github

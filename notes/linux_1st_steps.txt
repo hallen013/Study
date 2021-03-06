@@ -1,4 +1,4 @@
-﻿Linux-Ubuntu first steps
+﻿Linux-Ubuntu first steps:
 
 terminal comands:
 
