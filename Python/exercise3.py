@@ -1,5 +1,5 @@
 print ('Vamos somar!')
-x = input ('Primeiro número: ')
-y = input ('Segundo número: ')
-z = int(x) + int(y)
-print('O resultado =', z)
+x = int (input ('Primeiro número: '))
+y = int (input ('Segundo número: '))
+z = x + y
+print('{} + {}='.format(x,y), z)
