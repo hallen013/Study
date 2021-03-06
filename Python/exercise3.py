@@ -1,0 +1,5 @@
+print ('Vamos somar!')
+x = input ('Primeiro número: ')
+y = input ('Segundo número: ')
+z = int(x) + int(y)
+print('O resultado =', z)
