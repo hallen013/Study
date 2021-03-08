@@ -1,13 +1,14 @@
 print('Tabuada')
-n1 = int(input('Digite um número: '))
-a = n1 * 1
-b = n1 * 2
-c = n1 * 3
-d = n1 * 4
-e = n1 * 5
-f = n1 * 6
-g = n1 * 7
-h = n1 * 8
-i = n1 * 9
-j = n1 * 10
-print('{0} x 1 = {1}\n{0} x 2 = {2}\n{0} x 3 = {3}\n{0} x 4 = {4}\n{0} x 5 = {5}\n{0} x 6 = {6}\n{0} x 7 = {7}\n{0} x 8 = {8}\n{0} x 9 = {9}\n{0} x 10 = {10}'.format(n1, a, b, c, d, e, f, g, h, i, j))
+n = int(input('Digite um número: '))
+print('-'*12)
+print('{} x {:2} = {}'.format(n, 1, n*1))
+print('{} x {:2} = {}'.format(n, 2, n*2))
+print('{} x {:2} = {}'.format(n, 3, n*3))
+print('{} x {:2} = {}'.format(n, 4, n*4))
+print('{} x {:2} = {}'.format(n, 5, n*5))
+print('{} x {:2} = {}'.format(n, 6, n*6))
+print('{} x {:2} = {}'.format(n, 7, n*7))
+print('{} x {:2} = {}'.format(n, 8, n*8))
+print('{} x {:2} = {}'.format(n, 9, n*9))
+print('{} x {:2} = {}'.format(n, 10, n*10))
+print('-'*12)
