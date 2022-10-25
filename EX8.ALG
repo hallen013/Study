@@ -1,3 +1,5 @@
+//Desenvolva um programa que leia uma distância em metros e mostre os valores
+//relativos em outras medidas.
 algoritmo "ex8"
 var
 metro,kilometro,hectometro,decametro,decimetro,centimetro,milimetro:real

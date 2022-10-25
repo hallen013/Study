@@ -1,3 +1,5 @@
+//Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a
+//sua terça parte.
 algoritmo "ex7"
 var
 n1,dobro,n2:real

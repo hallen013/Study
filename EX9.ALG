@@ -1,3 +1,5 @@
+//Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$)
+//e mostre quantos dólares ela pode comprar.
 algoritmo "ex9"
 var
 dinheiro:real

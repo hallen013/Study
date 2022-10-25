@@ -1,3 +1,5 @@
+// Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório
+//entre eles.
 algoritmo "ex4"
 var
 n1, n2, n3: inteiro
